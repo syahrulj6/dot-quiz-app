@@ -37,6 +37,7 @@ src/
 │   ├── ui/
 │   │   ├── Button.tsx
 │   │   ├── Card.tsx
+│   │   ├── Input.tsx
 │   │   └── ProgressBar.tsx
 │   ├── QuestionCard.tsx
 │   └── Timer.tsx
